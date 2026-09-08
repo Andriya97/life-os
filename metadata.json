@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "Complete personal life operating system for tracking academics, fitness, nutrition, habits, sleep, goals, and daily life score.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
